@@ -8,6 +8,6 @@ namespace Solution_GitTest
     public class Class1
     {
 
-
+        // Note:
     }
 }
